@@ -13,7 +13,7 @@ _**Chess**_ ♟ over ~~Checkers~~
 
 _**Tensorflow**_ over ~~Pytorch~~ 🤓
 
-**_Reddit_** over _Instagram_ 💭
+**_Reddit_** over ~~Instagram~~ 💭
 
 **_Telegram_** over ~~WhatsApp~~ 💬
 
