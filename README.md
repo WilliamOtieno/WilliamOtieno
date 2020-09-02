@@ -1,14 +1,15 @@
 ### Roses are Red, Violets are Blue, unexpected '{' on line 32 
 
 
-FreeLibreOpenSourceSoftware(FLOSS)🆓 over Proprietary
-Pycharm over VS_Code💯
-Python🐍 over R
-PC_Gaming over Console_Gaming🎮
-Chess♟️ over Checkers
-Tensorflow over Pytorch🤓
-Reddit over Instagram💭
-Telegram over WhatsApp💬
-Discord over Mastodon🤯
-Slack over MS Teams
-ZSH over Bash✊🏿
+FreeLibreOpenSourceSoftware(FLOSS)🆓 over Proprietary\n
+Pycharm over VS_Code💯\n
+Python🐍 over R\n
+PC_Gaming over Console_Gaming🎮\n
+Chess♟️ over Checkers\n
+Tensorflow over Pytorch🤓\n
+Reddit over Instagram💭\n
+Telegram over WhatsApp💬\n
+Discord over Mastodon🤯\n
+Slack over MS Teams\n
+ZSH over Bash✊🏿\n
+Tabs over Spaces
