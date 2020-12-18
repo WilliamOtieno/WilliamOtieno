@@ -1,5 +1,1 @@
-
-
-**_FreeLibreOpenSourceSoftware(FLOSS)_** 🆓 over ~~Proprietary~~
-
-#### _The Quieter you become the More you can here_ ⚫
+### ~In a world full of Software, the best way to lead is through Code.
