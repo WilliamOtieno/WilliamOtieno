@@ -52,10 +52,10 @@ williamotieno@github:~ $ whoami
   <a href="https://twitter.com/William__Otieno"><img src="https://img.icons8.com/color/50/111111/twitter-squared.png" alt="twitter"/></a>
   <a href="https://www.linkedin.com/in/williamotieno"><img src="https://img.icons8.com/color/50/111111/linkedin.png" alt="linkedin"/></a>
   <a href="https://stackoverflow.com/users/14775881/william-otieno"><img src="https://img.icons8.com/color/50/000000/stackoverflow.png" alt="stackoverflow"/></a>
-<p>
-[![Twitter: imthepk](https://img.shields.io/twitter/follow/William_Otieno?style=social)](https://twitter.com/William__Otieno)
-[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/williamotieno/)](https://www.linkedin.com/in/williamotieno/)
-[![GitHub iampawan](https://img.shields.io/github/followers/williamotieno?label=follow&style=social)](https://github.com/WilliamOtieno)
+</p>
+[![Twitter: William__Otieno](https://img.shields.io/twitter/follow/William_Otieno?style=social)](https://twitter.com/William__Otieno)
+[![Linkedin: williamotieno](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/williamotieno/)](https://www.linkedin.com/in/williamotieno/)
+[![GitHub WilliamOtieno](https://img.shields.io/github/followers/williamotieno?label=follow&style=social)](https://github.com/WilliamOtieno)
   
   
 #### Arranging 1s and 0s in the right order.
