@@ -1,4 +1,4 @@
-##### In a world full of Software, the best way to lead is through Code.
+#### In a world full of Software, the best way to lead is through Code.
 ###### Hey! 👋
 
 ```cli
@@ -23,3 +23,5 @@ williamotieno@github:~ $ whoami
   <a href="https://www.linkedin.com/in/williamotieno"><img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://stackoverflow.com/users/14775881/william-otieno"><img src="https://img.icons8.com/color/50/000000/stackoverflow.png" alt="stackoverflow"/></a>
 <p>
+  
+#### Arranging 1s and 0s in the right order.
