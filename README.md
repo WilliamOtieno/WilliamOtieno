@@ -19,8 +19,8 @@ williamotieno@github:~ $ whoami
 
 ### Get in touch
 <p>
-  <a href="https://twitter.com/William__Otieno"><img src="https://img.icons8.com/color/50/000000/twitter-squared.png" alt="twitter"/></a>
-  <a href="https://www.linkedin.com/in/williamotieno"><img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://twitter.com/William__Otieno"><img src="https://img.icons8.com/color/50/111111/twitter-squared.png" alt="twitter"/></a>
+  <a href="https://www.linkedin.com/in/williamotieno"><img src="https://img.icons8.com/color/50/111111/linkedin.png" alt="linkedin"/></a>
   <a href="https://stackoverflow.com/users/14775881/william-otieno"><img src="https://img.icons8.com/color/50/000000/stackoverflow.png" alt="stackoverflow"/></a>
 <p>
   
