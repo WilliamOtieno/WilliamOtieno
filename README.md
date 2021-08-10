@@ -49,7 +49,7 @@ williamotieno@github:~ $ whoami
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamotieno&langs_count=10&layout=compact"/></td> 
   </tr>   
   <tr>
-    [![William Otieno's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=williamotieno)](https://github.com/WilliamOtieno/github-readme-stats)
+    [William Otieno's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=williamotieno)](https://github.com/WilliamOtieno/github-readme-stats)
   </tr>
 </table>
 
