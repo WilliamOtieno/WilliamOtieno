@@ -45,7 +45,7 @@ williamotieno@github:~ $ whoami
 ### :octocat: My stats
   <table>
   <tr>
-      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=williamotieno&show_icons=true"/></td>
+      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=williamotieno&show_icons=true&count_private=true&include_all_commits"/></td>
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamotieno&hide=css&layout=compact"/></td>      
   </tr>   
 </table>
