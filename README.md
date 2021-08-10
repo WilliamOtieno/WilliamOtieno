@@ -49,7 +49,7 @@ williamotieno@github:~ $ whoami
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamotieno&langs_count=10&layout=compact"/></td> 
   </tr>   
 </table>
-[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=williamotieno)](https://github.com/WilliamOtieno/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Get in touch
