@@ -62,5 +62,3 @@ williamotieno@github:~ $ whoami
   <a href="https://www.github.com/WilliamOtieno"><img src="https://img.icons8.com/color/50/111111/github.png" alt="github"/></a>
   <a href="https://stackoverflow.com/users/14775881/william-otieno"><img src="https://img.icons8.com/color/50/000000/stackoverflow.png" alt="stackoverflow"/></a>
 </p>
-  
-#### Arranging 1s and 0s in the right order.
