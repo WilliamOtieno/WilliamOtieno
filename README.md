@@ -1,5 +1,7 @@
 #### In a world full of Software, the best way to lead is through Code.
 ###### Hey! 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=WilliamOtieno&label=Profile%20views&color=0e75b6&style=flat" alt="WilliamOtieno" /> </p>
+
 
 ```cli
 williamotieno@github:~ $ whoami
