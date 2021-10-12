@@ -2,7 +2,6 @@
 ###### Hey! 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=WilliamOtieno&label=Profile%20views&color=0e75b6&style=flat" alt="WilliamOtieno" /> </p>
 
-
 ```cli
 williamotieno@github:~ $ whoami
 
@@ -46,6 +45,12 @@ williamotieno@github:~ $ whoami
 
 ### :octocat: My stats
   <table>
+  <th>
+    Total time coded since Jul 30 2021
+  </th>
+  <tr>
+    <a href="https://wakatime.com/@031f0010-ed93-450d-86db-77e0f90e1bae"><img src="https://wakatime.com/badge/user/031f0010-ed93-450d-86db-77e0f90e1bae.svg" alt="Total time coded since Jul 30 2021" /></a>
+  </tr>
   <tr>
       <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=williamotieno&show_icons=true&count_private=true&include_all_commits&theme=tokyonight"/></td>
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamotieno&langs_count=10&layout=compact"/></td>
