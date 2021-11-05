@@ -65,7 +65,7 @@ williamotieno@github:~ $ whoami
 <table>
   <tr>
     <td><a href="https://wakatime.com"><img src="https://wakatime.com/share/@williamotieno/927faea6-4e7a-4c22-96f7-fafd375f91ad.png" /></a></td>
-    <td><figure><embed src="https://wakatime.com/share/@williamotieno/bbde6a94-138c-4e5c-aa96-b2164a752f88.svg"></embed></figure></td>
+    <td><a href="https://wakatime.com"><img src="https://wakatime.com/share/@williamotieno/56af19b4-b64f-4624-b182-2aada655cc11.png" /></a></td>
   </tr>
 </table>
 
