@@ -56,14 +56,11 @@ williamotieno@github:~ $ whoami
      
   </tr>   
 </table>
+<table>
+  <td>![](https://raw.githubusercontent.com/williamotieno/github-stats/master/generated/overview.svg)</td>
+  <td>![](https://github.com/williamotieno/github-stats/blob/master/generated/languages.svg)</td>
+</table>
 <div>
-
-  <a href="https://github.com/WilliamOtieno">
-
-  ![](https://raw.githubusercontent.com/williamotieno/github-stats/master/generated/overview.svg)
-  ![](https://github.com/williamotieno/github-stats/blob/master/generated/languages.svg)
-
-  </a>
 
 </div>
 <table>
