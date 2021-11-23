@@ -56,7 +56,7 @@ williamotieno@github:~ $ whoami
      
   </tr>   
 </table>
-<div align="center">
+<div>
 
   <a href="https://github.com/WilliamOtieno">
 
