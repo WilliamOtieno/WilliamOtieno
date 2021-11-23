@@ -58,8 +58,10 @@ williamotieno@github:~ $ whoami
 </table>
 
 <table>
-  <td><a>![](https://raw.githubusercontent.com/williamotieno/github-stats/master/generated/overview.svg)</a></td>
-  <td><a>![](https://github.com/williamotieno/github-stats/blob/master/generated/languages.svg)</a></td>
+  <td><a>
+    ![](https://raw.githubusercontent.com/williamotieno/github-stats/master/generated/overview.svg)
+    ![](https://github.com/williamotieno/github-stats/blob/master/generated/languages.svg)
+    </a></td>
 </table>
 
 <table>
