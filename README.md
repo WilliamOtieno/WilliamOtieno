@@ -53,10 +53,19 @@ williamotieno@github:~ $ whoami
   <tr>
       <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=williamotieno&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"/></td>
     <td><img width="400px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=WilliamOtieno&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></td>
-<!--     <td>![](https://github.com/WilliamOtieno/github-stats/blob/master/generated/overview.svg)</td> -->
      
   </tr>   
 </table>
+<div align="center">
+
+  <a href="https://github.com/WilliamOtieno">
+
+  ![](https://raw.githubusercontent.com/williamotieno/github-stats/master/generated/overview.svg)
+  ![](https://github.com/williamotieno/github-stats/blob/master/generated/languages.svg)
+
+  </a>
+
+</div>
 <table>
   <tr>
     <td><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=williamotieno&layout=compact"/></td>
