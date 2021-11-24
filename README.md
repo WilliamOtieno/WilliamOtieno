@@ -53,6 +53,7 @@ williamotieno@github:~ $ whoami
   <tr>
       <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=williamotieno&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"/></td>
     <td><img width="400px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=WilliamOtieno&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></td>
+    <td><img src="https://raw.githubusercontent.com/WilliamOtieno/github-stats/master/generated/overview.svg" /></td>
      
   </tr>   
 </table>
@@ -60,10 +61,7 @@ williamotieno@github:~ $ whoami
 <div align="center">
 
 <a href="https://github.com/jstrieb/github-stats">
-  
 ![](https://raw.githubusercontent.com/WilliamOtieno/github-stats/master/generated/overview.svg)
-![](https://github.com/WilliamOtieno/github-stats/blob/master/generated/languages.svg)
-
 </a>
 
 </div>
