@@ -65,7 +65,7 @@ williamotieno@github:~ $ whoami
 
 <table>
   <tr>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=williamotieno&layout=compact"/></td>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=williamotieno&layout=compact&show_icnos=true"/></td>
     <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamotieno&langs_count=10&layout=compact"/></td>
   </tr>
 </table>
