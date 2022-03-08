@@ -64,7 +64,7 @@ williamotieno@github:~ $ whoami
   </tr>
 </table>
 <div>
-  <img style="width:75%" src="https://wakatime.com/share/@williamotieno/9ec2a275-30b2-4010-8cc1-79883e28eab9.svg" />
+  <img style="width:75%" src="https://wakatime.com/share/@williamotieno/904d979d-659b-4ed2-8ddd-56e9e690d84e.svg" />
 </div>
 
 ### Get in touch
