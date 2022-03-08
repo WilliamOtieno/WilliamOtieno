@@ -60,15 +60,12 @@ williamotieno@github:~ $ whoami
 <table>
   <tr>
     <td><img src="https://raw.githubusercontent.com/WilliamOtieno/github-stats/master/generated/overview.svg" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamotieno&langs_count=10&layout=compact"/></td>
   </tr>
 </table>
-
-<table>
-  <tr>
-    <td><figure><embed src="https://wakatime.com/share/@williamotieno/8813cc25-13e6-441f-b788-a99707120a87.svg"></embed></figure></td>
-    <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamotieno&langs_count=10&layout=compact"/></td>
-  </tr>
-</table>
+<div>
+  <img style="width:75%" src="https://wakatime.com/share/@williamotieno/9ec2a275-30b2-4010-8cc1-79883e28eab9.svg" />
+</div>
 
 ### Get in touch
 <p>
