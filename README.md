@@ -1,9 +1,5 @@
-#### In a world full of Software, the best way to lead is through Code.
-###### Hey! 👋
-```cli
-williamotieno@github:~ $ whoami
 
-  • 😎 Backend Software Engineer
-  • 😃 Software Craftsman
-  • 😆 Linux/FreeLibreOpenSourceSoftware Enthusiast
+```cli
+  • Software Craftsman (Python/Go Backends)
+  • Free and Open-Source Software Enthusiast
 ```
