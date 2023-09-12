@@ -1,5 +1,5 @@
 
 ```cli
-  • Software Craftsman (Python/Go)
+  • Python/Go 
   • FOSS
 ```
