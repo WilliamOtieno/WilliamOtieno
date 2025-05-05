@@ -1,5 +1,4 @@
 
 ```cli
-  • Python/Go 
-  • FOSS
+  • Backend (Python/Go) && Infra 
 ```
