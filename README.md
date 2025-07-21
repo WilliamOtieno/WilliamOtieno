@@ -1,4 +1,5 @@
 
-```cli
-  • Backend (Python/Go) && Infra 
+```
+  - Backend (Python/Go) && Infra
+  - Building [my homelab](https://homelab.tech4granted.com)
 ```
